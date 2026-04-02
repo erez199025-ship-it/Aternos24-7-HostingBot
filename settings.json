@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip"killifish.aternos.hos7"
+    "ip"killifish.aternos.host"
     "port": 23977,
     "version": "1.21.11",
     "try-creative": false
