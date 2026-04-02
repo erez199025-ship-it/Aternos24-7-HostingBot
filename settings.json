@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": snizelsmp.aternos.me,
+    "ip": snizelsmp.aternos.me:23977
     "port": 23977,
     "version": "",
     "try-creative": false
