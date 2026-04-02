@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip"killifish.aternos.host
+    "ip"snizelsmp.aternos.me:23977
   
     "port": 23977,
     "version": "1.21.11",
